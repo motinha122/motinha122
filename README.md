@@ -25,7 +25,7 @@
   <h2>Other Technologies</h2>
   <img align="center" alt="ai" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="ps" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="vscode" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="sass" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
   
 <div align="center" style="display:inline-block"><br>
