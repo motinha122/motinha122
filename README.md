@@ -29,6 +29,6 @@
 </div>
   
 <div align="center" style="display:inline-block"><br>
-  <img height=300px width="600px" src="https://media1.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=790b761156ed04942406ac4041b7b4343c736935b3f5e4eb&rid=giphy.gif&ct=g">
+  <img height=300px width="600px" src="https://64.media.tumblr.com/f4acd52421b85653b9d833c909b19de8/660f137a963fac7c-5b/s640x960/3af6ae4f02a642fcb161b316f40e122367e98093.gif">
 </div>
 
